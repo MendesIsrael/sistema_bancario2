@@ -142,6 +142,7 @@ def main():
                 numero_saques=numero_saques,
                 limite_saques=LIMITE_SAQUE,
                 confirmacao_saque=confirmacao_saque,
+                1
             )
 
         elif opcao == "3":
